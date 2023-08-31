@@ -10,8 +10,68 @@
       "grid-templates-rows"
     ],
     "author": {
-      "image": "",
+      "image": "https://mac-ad.github.io/codpen-assets-jsons/css-tricks-cards-hover/images/d.png",
       "name": "Daniel Schwarz"
+    }
+  },
+  {
+    "type": "Article",
+    "date": "Jan 12,2023",
+    "title": "More Real-World Uses for :has()",
+    "tags": [":has"],
+    "author": {
+      "image": "https://mac-ad.github.io/codpen-assets-jsons/css-tricks-cards-hover/images/liam",
+      "name": "Liam Johnston"
+    }
+  },
+  {
+    "type": "Article",
+    "date": "Jan 25,2023",
+    "title": "Animating CSS Grid (How To + Examples)",
+    "tags": [
+      "animation",
+      "grid",
+      "grid-templates-columns",
+      "grid-templates-rows"
+    ],
+    "author": {
+      "image": "https://mac-ad.github.io/codpen-assets-jsons/css-tricks-cards-hover/images/d.png",
+      "name": "Daniel Schwarz"
+    }
+  },
+  {
+    "type": "Article",
+    "date": "Jan 12,2023",
+    "title": "More Real-World Uses for :has()",
+    "tags": [":has"],
+    "author": {
+      "image": "https://mac-ad.github.io/codpen-assets-jsons/css-tricks-cards-hover/images/liam",
+      "name": "Liam Johnston"
+    }
+  },
+  {
+    "type": "Article",
+    "date": "Jan 25,2023",
+    "title": "Animating CSS Grid (How To + Examples)",
+    "tags": [
+      "animation",
+      "grid",
+      "grid-templates-columns",
+      "grid-templates-rows"
+    ],
+    "author": {
+      "image": "https://mac-ad.github.io/codpen-assets-jsons/css-tricks-cards-hover/images/d.png",
+      "name": "Daniel Schwarz"
+    }
+  },
+  {
+    "type": "Article",
+    "date": "Jan 12,2023",
+    "title": "More Real-World Uses for :has()",
+    "tags": [":has"],
+    "author": {
+      "image": "https://mac-ad.github.io/codpen-assets-jsons/css-tricks-cards-hover/images/liam",
+      "name": "Liam Johnston"
     }
   }
 ]
