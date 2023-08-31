@@ -1,0 +1,17 @@
+[
+  {
+    "type": "Article",
+    "date": "Jan 25,2023",
+    "title": "Animating CSS Grid (How To + Examples)",
+    "tags": [
+      "animation",
+      "grid",
+      "grid-templates-columns",
+      "grid-templates-rows"
+    ],
+    "author": {
+      "image": "",
+      "name": "Daniel Schwarz"
+    }
+  }
+]
